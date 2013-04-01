@@ -4,7 +4,7 @@
 ##用法
 下载`*.ahk` 或`*.exe`；运行后点击想要获取的文字；Esc隐藏窗口，右上角退出程序。
 ##预览
-![]()
+![](https://raw.github.com/likaci/Get2Search/master/PreView.jpg)
 ---
 ##Feature
 Get whatever window's text to search. So you can easliy get Pro's Error-Message and google it.
@@ -13,4 +13,4 @@ A Feature is that, if you select some text in this tools GUI the tools will only
 download the `.*ahk` or `*.exe` then run it.
 Click the text you want get 2 search.
 ##PreView
-
+![](https://raw.github.com/likaci/Get2Search/master/PreView.jpg)
